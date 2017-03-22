@@ -1,0 +1,12 @@
+/ref/
+/node_modules/
+
+/dist/
+
+/.git/
+
+/app/css/
+
+/**/*.psd
+
+/**/Thumbs.db
